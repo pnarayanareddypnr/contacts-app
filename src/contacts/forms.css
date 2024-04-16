@@ -1,0 +1,28 @@
+.myForm {
+    text-align: center;
+    border: 2px solid green;
+    background-color: burlywood;
+    color: white;
+    font-size: 20px;
+}
+
+.lable {
+    display: block;
+    margin: 20px;
+    height: 20px;
+    
+}
+
+.btn {
+    background-color: blueviolet;
+    height: 40px;
+    width: 20%;
+    color: white;
+    margin: 20px;
+    border: 2px solid olivedrab;
+}
+
+input {
+    background:skyblue;
+    margin-left: 20px;
+}

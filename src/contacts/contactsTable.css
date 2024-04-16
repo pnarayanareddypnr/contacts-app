@@ -1,0 +1,49 @@
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    text-align: center;
+    height: 40px;
+    width: 40%;
+    color: green;
+    /* background-color: bisque; */
+}
+
+.header {
+    text-align: center;
+    border: 2px solid brown;
+    background-color:blueviolet;
+    color: white;
+}
+
+.table {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border: 1px solid green;
+    width: 70%;
+
+}
+
+.headerRow {
+    border-bottom: 1px solid black;
+
+}
+
+.container{
+    background-color: aqua;
+}
+
+.btns {
+    background-color: blueviolet;
+    height: 30px;
+    width: 60px;
+    color: white;
+    margin: 20px;
+    border: 2px solid olivedrab;
+}
+
